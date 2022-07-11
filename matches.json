@@ -10,9 +10,9 @@
       "forca": 5,
       "imagem": "TODO"
     },
-      "visitante": {
-        "nome": "Brasil",
-        "forca": 5,
-        "imagem": "TODO"
+     "visitante": {
+       "nome": "Brasil",
+       "forca": 5,
+       "imagem": "TODO"
   } 
 ]
